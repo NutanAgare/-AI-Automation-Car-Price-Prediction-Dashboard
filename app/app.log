@@ -1,0 +1,68 @@
+2026-06-07 20:43:42,861 - INFO - AI Automation API started successfully
+2026-06-07 20:43:44,680 - INFO - Model loaded successfully
+2026-06-07 20:45:55,239 - INFO - AI Automation API started successfully
+2026-06-07 20:45:55,430 - INFO - Model loaded successfully
+2026-06-07 20:45:57,173 - INFO - AI Automation API started successfully
+2026-06-07 20:45:57,341 - INFO - Model loaded successfully
+2026-06-07 21:27:55,754 - INFO - AI Automation API started successfully
+2026-06-07 21:27:55,919 - INFO - Model loaded successfully
+2026-06-07 21:27:57,351 - INFO - AI Automation API started successfully
+2026-06-07 21:27:57,518 - INFO - Model loaded successfully
+2026-06-07 21:29:45,425 - INFO - Prediction request received: year=2018 mileage=45000.0 engine=1200.0 transmission='Manual'
+2026-06-07 21:29:45,429 - ERROR - Error in prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- mileage
+- year
+Feature names seen at fit time, yet now missing:
+- accident
+- brand
+- clean_title
+- ext_col
+- fuel_type
+- ...
+
+2026-06-07 21:29:47,321 - INFO - Prediction request received: year=2018 mileage=45000.0 engine=1200.0 transmission='Manual'
+2026-06-07 21:29:47,322 - ERROR - Error in prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- mileage
+- year
+Feature names seen at fit time, yet now missing:
+- accident
+- brand
+- clean_title
+- ext_col
+- fuel_type
+- ...
+
+2026-06-07 21:31:26,103 - INFO - AI Automation API started successfully
+2026-06-07 21:31:26,290 - INFO - Model loaded successfully
+2026-06-08 12:38:03,151 - INFO - AI Automation API (FULL) started
+2026-06-08 12:38:04,078 - INFO - Model loaded successfully
+2026-06-08 12:38:05,222 - INFO - AI Automation API (FULL) started
+2026-06-08 12:38:06,351 - INFO - Model loaded successfully
+2026-06-08 12:38:24,695 - INFO - Prediction request received: brand=3 model=10 model_year=2020 milage=45000.0 fuel_type=1 engine=1200.0 transmission=0 ext_col=2 int_col=1 accident=0 clean_title=1
+2026-06-08 12:38:24,712 - INFO - Prediction made: 348795.32
+2026-06-08 12:50:51,789 - INFO - AI Automation API (FULL) started
+2026-06-08 12:50:52,736 - INFO - Model loaded successfully
+2026-06-08 12:50:53,989 - INFO - AI Automation API (FULL) started
+2026-06-08 12:50:55,051 - INFO - Model loaded successfully
+2026-06-08 12:51:13,558 - INFO - Prediction request received: brand=3 model=10 model_year=2020 milage=45000.0 fuel_type=1 engine=1200.0 transmission=0 ext_col=2 int_col=1 accident=0 clean_title=1
+2026-06-08 12:51:13,581 - INFO - Prediction made: 348795.32
+2026-06-08 13:09:06,822 - INFO - AI Automation API (FULL) started
+2026-06-08 13:09:08,363 - INFO - Model loaded successfully
+2026-06-08 13:09:09,548 - INFO - AI Automation API (FULL) started
+2026-06-08 13:09:10,621 - INFO - Model loaded successfully
+2026-06-08 13:09:28,767 - INFO - Prediction request received: brand=3 model=10 model_year=2020 milage=45000.0 fuel_type=1 engine=1200.0 transmission=0 ext_col=2 int_col=1 accident=0 clean_title=1
+2026-06-08 13:09:28,788 - INFO - Prediction made: 348795.32
+2026-06-08 13:17:05,913 - INFO - AI Automation API (FULL) started
+2026-06-08 13:17:07,034 - INFO - Model loaded successfully
+2026-06-08 13:17:08,229 - INFO - AI Automation API (FULL) started
+2026-06-08 13:17:09,533 - INFO - Model loaded successfully
+2026-06-08 13:26:15,248 - INFO - AI Automation API (FULL) started
+2026-06-08 13:26:16,277 - INFO - Model loaded successfully
+2026-06-08 13:26:17,376 - INFO - AI Automation API (FULL) started
+2026-06-08 13:26:18,501 - INFO - Model loaded successfully
+2026-06-08 13:31:10,652 - INFO - AI Automation API (FULL) started
+2026-06-08 13:31:11,799 - INFO - Model loaded successfully
+2026-06-08 13:31:13,034 - INFO - AI Automation API (FULL) started
+2026-06-08 13:31:14,033 - INFO - Model loaded successfully
